@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+i {
+    color: #16D887;
+    margin-right: 5px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+/* header */
+.header {
+    background-image: url(/images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-text {
+    text-align: right;
+    padding-top: 150px;
+    padding-bottom: 170px;
+    padding-right: 150px;
+}
+
+.header-title {
+    font-size: 65px;
+    color: white;
+    line-height: 80px;
+}
+
+.header-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    line-height: 26px;
+}
+
+.btn-primary {
+    color: #005FAC;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 15px 30px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+/* failure-section */
+.failure-section {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+
+.failure-year {
+    padding-top: 200px;
+
+}
+
+.failure-title {}
+
+.failure-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    line-height: 26px;
+}
+.failure-year p{
+    font-size: 16px;
+    color: #444343;
+    line-height: 26px;
+}
+/* my plan */
+.plan{
+    align-items: center;
+}
+.my-plan-section{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.my-plan{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.plan-title{
+    margin-bottom: 50px;
+}
+.sub-plan{
+    
+}
+.sub-plan-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.plan-description{
+
+}
+/* positive-section */
+.positive-section{
+    background-image: url(/images/watch.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    background-position: center;
+    margin-bottom: 130px;
+    margin-top: 130px;
+}
+.positive-text{
+    text-align: center;
+    padding-top: 60px;
+}
+.positive-section button{
+    margin-bottom: 60px;
+}
+.mindset-title{
+    margin-bottom: 25px;
+    color: white;
+}
+/* footer section */
+.footer-section{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+.footer-section h2{
+    margin-bottom: 16px;
+}
+.footer-section p{
+    margin-bottom: 16px;
+    line-height: 26px;
+}
+.footer-section img{
+    margin-top: 24px;
+}
+.form-email{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 15px 20px;
+    background-color: black;
+    color: #AA9F9F;
+    font-size: 700;
+    font-size: 18px;
+}
+.update-input h3{
+    margin-bottom: 30px;
+    
+}
+.update-input button{
+    margin-top: 20px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 10px 25px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: #005FAC;
+}
